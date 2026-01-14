@@ -12,7 +12,6 @@ Avicam (Librería Fleming), 2023. ISBN: 978-84-19494-69-6.
 
 [4] Varios autores, Programación y Métodos Numéricos para Ingeniería con MATLAB y Octave. Madrid, España: Ibergarceta Publicaciones S.L., 2021. ISBN: 978-84-19034-35-9.
 
-# PERMISOS
-Este proyecto no podrá ser 
+# DISCLAIMER
 
 Rover-TFB © 2026 by Francisco José Romero Anguita is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/ 
